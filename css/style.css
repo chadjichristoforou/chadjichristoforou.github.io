@@ -18,6 +18,10 @@ span.navbar-brand.mb-0 {
 	width: 100%;
 	font-size: 50!important;
 }
+
+.row {
+	margin-top: 10%;
+}
 /*.special-title{
 	color: red;
 }*/
