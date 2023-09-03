@@ -1,0 +1,23 @@
+h2{
+	color:#090927 ;
+	text-align: center;
+}
+.mymenu{ 
+	background-color:#090927 !important;
+    height: 170;
+    color:#C0BBC7 !important;
+	
+
+}
+
+span.navbar-brand.mb-0 {
+	color: white;
+}
+
+.firstspan{
+	width: 100%;
+	font-size: 50!important;
+}
+/*.special-title{
+	color: red;
+}*/
